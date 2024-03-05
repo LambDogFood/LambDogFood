@@ -15,5 +15,5 @@ WIP | AutoTrader is an automated stock trading system that leverages algorithmic
 
 ## Get in Touch
 
-- Discord: [lorddogfood]
+- Discord: lorddogfood
 - Twitter: [@LambDogFood](https://twitter.com/LambDogFood)
