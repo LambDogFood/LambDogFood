@@ -11,7 +11,9 @@ WIP | Dogine is a powerful 3D game engine built using C++ and C, with support fo
 ### Autotrader:
 WIP | AutoTrader is an automated stock trading system that leverages algorithmic strategies for buying and selling stocks. This project is built using JavaScript (Node.js) and Python.
 
-[![Top Langs](https://github-readme-stats-mofb.vercel.app/api/top-langs/?username=LambDogFood&layout=compact&count-private=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats-mofb.vercel.app/api/top-langs/?username=LambDogFood&layout=compact&count-private=true&theme=transparent)
+![GitHub stats](https://github-readme-stats-mofb.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 ## Get in Touch
 
