@@ -14,7 +14,7 @@ WIP | AutoTrader is an automated stock trading system that leverages algorithmic
 ## Stats
 
 ![GitHub stats](https://github-readme-stats-mofb.vercel.app/api?username=LambDogFood&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-mofb.vercel.app/api/top-langs/?username=LambDogFood&count-private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-mofb.vercel.app/api/top-langs/?username=LambDogFood&layout=compact&count-private=true&theme=tokyonight)
 
 ## Get in Touch
 
