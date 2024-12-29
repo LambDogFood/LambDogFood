@@ -1,15 +1,23 @@
-# Hello, I'm LordDogFood (Alex) 👋
+# Hello, I'm LordDogFood (Alex) 👋  
 
-## Projects
+## Projects  
 
-### [Tower Blitz/Tower Blitz 2](https://www.roblox.com/games/4739557376/Tower-Blitz)
-Roblox Tower Defense Game using Luau.
-### Dogichars:
-Dogichars is a new solution for Roblox NPCs. Using luau it offers a simple and effective humanoid alternative for Roblox games.
-### Dogine: 
-WIP | Dogine is a 3D game engine built using C++ and C. It uses ImGui for the interface and OpenGL for rendering.
-### AutoTrader:
-AutoTrader is an automated stock trading system that leverages algorithmic strategies for buying and selling stocks. This project is built using JavaScript (Node.js) and Alpaca.
+### [Tower Blitz / Tower Blitz 2](https://www.roblox.com/games/4739557376/Tower-Blitz)  
+**Platform:** Roblox | **Language:** Luau  
+A dynamic tower defense game with a focus on performance and scalability. In Tower Blitz 2, I am leading the development of a highly efficient RTS system, aiming to set a new standard for Roblox RTS games.  
+
+### Dogichars  
+**Platform:** Roblox | **Language:** Luau  
+An innovative solution for NPC management in Roblox. Dogichars simplifies humanoid behavior, offering a lightweight and efficient alternative for game developers.  
+
+### Dogine  
+**Status:** WIP | **Language:** C++ and C | **Libraries:** ImGui, OpenGL  
+A 3D game engine designed for performance and flexibility. Dogine features an intuitive interface using ImGui and robust rendering capabilities powered by OpenGL.  
+
+### AutoTrader  
+**Platform:** Stock Trading | **Language:** JavaScript (Node.js)  
+An automated trading system leveraging algorithmic strategies for stock transactions. Built with Alpaca API, it enables seamless and intelligent trading operations.  
+
 
 ## Stats
 
