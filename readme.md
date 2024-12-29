@@ -26,5 +26,6 @@ An automated trading system leveraging algorithmic strategies for stock transact
 
 ## Get in Touch
 
+- Roblox: [@LordDogFood](https://www.roblox.com/users/196842650/profile)
 - Discord: lorddogfood
 - Twitter: [@LambDogFood](https://twitter.com/LambDogFood)
